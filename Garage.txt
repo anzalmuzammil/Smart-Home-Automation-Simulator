@@ -1,0 +1,3 @@
+Light1 OFF
+Light2 OFF
+MD1 UNLOCKED

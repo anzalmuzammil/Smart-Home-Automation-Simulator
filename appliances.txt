@@ -1,0 +1,9 @@
+Iron
+VacuumCleaner
+Microwave
+CoffeeMaker
+Blender
+AirCooler
+Juicer
+Toastertoaster
+cleaner

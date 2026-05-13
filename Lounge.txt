@@ -1,0 +1,10 @@
+Light1 OFF
+Light2 OFF
+Light3 OFF
+Light4 ON
+Fan OFF
+AC OFF
+Heater OFF
+TV OFF
+Window UNLOCKED
+dishwasher OFF

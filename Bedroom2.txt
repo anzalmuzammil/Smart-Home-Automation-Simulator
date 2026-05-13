@@ -1,0 +1,7 @@
+Light1 OFF
+Light2 OFF
+Fan OFF
+AC ON
+Heater OFF
+Door UNLOCKED
+Window UNLOCKED

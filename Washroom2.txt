@@ -1,0 +1,4 @@
+Light1 ON
+Light2 OFF
+WashingMachine OFF
+Window UNLOCKED

@@ -1,0 +1,6 @@
+Light1 OFF
+Light2 OFF
+Oven OFF
+Dishwasher ON
+Fridge ON
+Window UNLOCKED

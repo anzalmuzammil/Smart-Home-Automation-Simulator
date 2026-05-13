@@ -1,0 +1,7 @@
+Bedroom1
+Bedroom2
+Washroom1
+Washroom2
+Kitchen
+Lounge
+Garageguestroom
